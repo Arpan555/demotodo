@@ -1,0 +1,15 @@
+.movie-box{
+    height: auto;
+    width: auto;
+    background-color: antiquewhite;
+    border:solid 1px black;
+    margin: 5px;
+}
+.p-box{
+    margin-top: 10px;
+    height: auto;
+    width: auto;
+    background-color:burlywood;
+    border:solid 1px black;
+    margin: 5px;
+}
